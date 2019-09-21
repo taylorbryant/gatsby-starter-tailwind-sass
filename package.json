@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-tailwind-sass",
   "description": "Gatsby starter styled with Tailwind and Sass",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "author": "Taylor Bryant <taylor@bryant.io>",
   "dependencies": {
     "gatsby": "2.15.20",
@@ -10,7 +10,7 @@
     "gatsby-plugin-purgecss": "4.0.1",
     "gatsby-plugin-react-helmet": "3.1.8",
     "gatsby-plugin-sass": "2.1.15",
-    "graphql": "14.5.6",
+    "graphql": "14.5.7",
     "node-sass": "4.12.0",
     "prop-types": "15.7.2",
     "react": "16.9.0",
